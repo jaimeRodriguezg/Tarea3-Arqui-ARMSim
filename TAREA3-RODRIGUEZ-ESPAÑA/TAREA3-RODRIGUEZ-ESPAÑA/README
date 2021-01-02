@@ -1,0 +1,20 @@
+README
+Integrantes:
+Jaime Rodriguez 201704072-6
+Gonzalo España 201423549-6
+
+----Consideraciones---
+Factorial:
+Se ocupo una entrada de tipo archivo, donde el nombre del archivo 
+es "input.txt"
+
+Busqueda Binaria:
+Se ocupo una entrada de tipo archivo, con el siguiente formato
+5
+4
+6
+8
+10
+12
+5
+y el nombre del archivo es "input2.txt"
